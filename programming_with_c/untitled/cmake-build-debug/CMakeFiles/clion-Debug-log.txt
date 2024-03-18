@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/nagy_dissapointed/iti_labs/day3/untitled Select CMakeLists.txt

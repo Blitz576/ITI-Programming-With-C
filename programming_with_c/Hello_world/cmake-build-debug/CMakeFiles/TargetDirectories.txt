@@ -1,0 +1,3 @@
+/home/nagy_dissapointed/iti_labs/day1/Hello_world/cmake-build-debug/CMakeFiles/task1.dir
+/home/nagy_dissapointed/iti_labs/day1/Hello_world/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nagy_dissapointed/iti_labs/day1/Hello_world/cmake-build-debug/CMakeFiles/rebuild_cache.dir

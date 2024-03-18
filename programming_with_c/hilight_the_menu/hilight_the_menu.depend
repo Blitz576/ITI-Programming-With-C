@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697022975 source:c:\users\itiu\desktop\hilight_the_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
+1697306381 source:d:\nagy_is_disappointed\hilight_the_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+

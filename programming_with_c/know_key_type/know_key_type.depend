@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697019797 source:c:\users\itiu\desktop\know_key_type\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697016197 source:d:\it_ labs\programming_with_c\know_key_type\main.c
+	<stdio.h>
+	<stdlib.h>
+

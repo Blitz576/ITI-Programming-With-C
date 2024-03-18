@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697360108 source:d:\calculator_in_two_ways\main.c
+	<stdio.h>
+	<stdlib.h>
+

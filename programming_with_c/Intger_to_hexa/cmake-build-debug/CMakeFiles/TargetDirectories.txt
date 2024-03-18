@@ -1,0 +1,3 @@
+/home/nagy_dissapointed/iti_labs/day1/Intger_to_hexa/cmake-build-debug/CMakeFiles/taks4.dir
+/home/nagy_dissapointed/iti_labs/day1/Intger_to_hexa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nagy_dissapointed/iti_labs/day1/Intger_to_hexa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
